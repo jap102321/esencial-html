@@ -33,7 +33,7 @@
   --white30: white;
   --white20: #a5a3a5;
   --white10: #3a3539;
-
+  scroll-behavior: smooth;
 }
 
 
@@ -46,6 +46,7 @@ body{
   /* margin-inline: 100px;
   margin-block: 100px; */
   /* margin-block-end: 100px; */
+
 
 }
 
